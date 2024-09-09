@@ -32,6 +32,10 @@
     100%{left: -50px;}
 }
 
+.score-text {
+    text-align: center;
+}
+
 #score {
     text-align: center;
 }
