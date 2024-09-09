@@ -40,6 +40,14 @@
     text-align: center;
 }
 
+.start-game {
+    text-align: center;
+}
+
+#start-game-button {
+
+}
+
 .jump-animation {
     animation: jump 0.5s;
 }
