@@ -41,7 +41,7 @@ setInterval(() => {
 
     if(rockLeft < 50 && rockLeft > 0 && dinoTop > 150) {
         alert('You got a score of: ' + score.innerText + '\n\nPlay again?');
-        startGameButton.style.display = '';
+        // startGameButton.style.display = '';
         location.reload();
     }
     // else {
